@@ -99,7 +99,7 @@
                                     </div>
                                     <div class="card-body text-center">
                                         <div class="city">Cidade</div>
-                                        <div class="date">Domingo, 30 Novembro 2022</div>
+                                        <div class="date">Domingo, 30 Novembro 2025</div>
                                         <div class="container-img">
                                             <img src="../assets/img/unknown.png" alt="imagem-clima">
                                         </div>
@@ -192,7 +192,7 @@
 
             </div>
             <div class="bordar-rodape text-center pt-2">
-                <p>Copyright &copy; 2022 <strong>BeeLockers</strong> │ Todos os direitos reservados</p>
+                <p>Copyright &copy; 2025 <strong>BeeLockers</strong> │ Todos os direitos reservados</p>
             </div>
         </section>
     </footer><!--Fim do rodapé-->

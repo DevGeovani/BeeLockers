@@ -279,7 +279,7 @@
 
             </div>
             <div class="bordar-rodape text-center pt-2">
-                <p>Copyright &copy; 2022 <strong>BeeLockers</strong> │ Todos os direitos reservados</p>
+                <p>Copyright &copy; 2025 <strong>BeeLockers</strong> │ Todos os direitos reservados</p>
             </div>
         </section>
     </footer><!--Fim do rodapé-->

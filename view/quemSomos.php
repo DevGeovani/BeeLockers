@@ -118,7 +118,7 @@
                             <p>
                                 Somos uma empresa brasileira que trabalha com o objetivo de promover lazer e segurança lado a lado. Nascemos da ideia de tornar o lazer, um momento inesquecível e sem preocupações.
                             </p>
-                            <p> Desde 2022 atuando no desenvolvimento de soluções tecnológicas para sistema de agendamento, voltado para o setor de entretenimento - cultura de lazer. </p>
+                            <p> Desde 2025 atuando no desenvolvimento de soluções tecnológicas para sistema de agendamento, voltado para o setor de entretenimento - cultura de lazer. </p>
                             <p>
                                 A BeeLockers é pioneira e líder em sistema de agendamento para locação de armários nas praias do litoral brasileiro. Possui um completo conjunto de soluções que atendem as necessidades de agendamento, com praticidade e otimização de tempo.
                             </p>
@@ -280,7 +280,7 @@
 
             </div>
             <div class="bordar-rodape text-center pt-2">
-                <p>Copyright &copy; 2022 <strong>BeeLockers</strong> │ Todos os direitos reservados</p>
+                <p>Copyright &copy; 2025 <strong>BeeLockers</strong> │ Todos os direitos reservados</p>
             </div>
         </section>
     </footer>
