@@ -4,7 +4,6 @@
 
 - [Sobre o Projeto](#--sobre-projeto)
 - [Tecnologias utilizadas](#--tecnologias-utilizadas-)
-- [Cronograma](#--cronograma-)
 - [Estrutura - Banco de Dados](#-pencil2-estrutura---banco-de-dados-)
   - [Modelo Lógico](#-modelo-lógico-)
   - [Modelo Conceitual](#-modelo-conceitual-)
@@ -35,15 +34,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,php,git,github,mysql,js"/>
     
    </tr>
-
-
-##
-
-
-<h2> 🗓 Cronograma </h2>
-
-![cronograma](https://user-images.githubusercontent.com/84486574/232351488-9d54a0fa-b20d-498b-a198-c2200ca24e38.png)
-
 
 ##
 
