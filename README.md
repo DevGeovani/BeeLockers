@@ -3,7 +3,9 @@
 # Sumário
 
 - [Sobre o Projeto](#--sobre-projeto)
+- [Equipe do Projeto](#--equipe-do-projeto-)
 - [Tecnologias utilizadas](#--tecnologias-utilizadas-)
+- [Cronograma](#--cronograma-)
 - [Estrutura - Banco de Dados](#-pencil2-estrutura---banco-de-dados-)
   - [Modelo Lógico](#-modelo-lógico-)
   - [Modelo Conceitual](#-modelo-conceitual-)
@@ -21,8 +23,19 @@
 
 <br>
 <h2> 👨🏻‍💻 Sobre projeto</h2>
-<p>O BeeLockers é um sistema desenvolvido para gerenciar o uso de armários inteligentes, permitindo a abertura, o controle e o acompanhamento das reservas de forma prática e segura.</p>
+<p>Este projeto visa o desenvolvimento de um sistema como solução de um problema ou uma necessidade e tem como objetivo final, a complementação regimental do Curso Técnico de Desenvolvimento de Sistemas ao Centro Paula Souza, da ETEC Jardim Angela.</p>
 <br>
+
+##
+
+<h2> 👩‍💻 Equipe do projeto </h2>
+
+
+| ![daniela](https://user-images.githubusercontent.com/101750798/214454745-b055a296-ee75-4a6c-a728-4abab3f8db65.jpeg) | ![emily](https://user-images.githubusercontent.com/84486574/232350304-8a500719-eeaa-4adc-805a-d3b6bee54401.jpg) | ![geovani](https://user-images.githubusercontent.com/84486574/232353745-c88fdf5f-bab2-4287-bdb3-480be576ca61.jpg) | ![julyane](https://user-images.githubusercontent.com/84486574/232353710-d75bbf5d-0ff1-4f63-a1e1-4753ffccc206.jpg) | ![pedro](https://user-images.githubusercontent.com/84486574/232355226-c88b9414-2079-42ea-9e1c-f25bd8e29135.jpg)
+| :------------: | :------------: | :------------: | :------------: | :------------: |
+|  Daniela Martins | Emily Cardoso | Geovani Ferreira | Julyane Hengler | Pedro Rennó 
+
+
 
 ##
 
@@ -34,6 +47,15 @@
     <img src="https://skillicons.dev/icons?i=html,css,php,git,github,mysql,js"/>
     
    </tr>
+
+
+##
+
+
+<h2> 🗓 Cronograma </h2>
+
+![cronograma](https://user-images.githubusercontent.com/84486574/232351488-9d54a0fa-b20d-498b-a198-c2200ca24e38.png)
+
 
 ##
 
