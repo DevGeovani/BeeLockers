@@ -67,3 +67,59 @@ CREATE TABLE reservas (
 
 INSERT INTO `usuario` (`id_usuario`, `nome`, `cpf`, `email`, `sexo`, `telefone`, `senha`, `dtnasc`, `id_tipo`, `data`) VALUES (NULL, 'Admin', '', 'admin@admin.com', 'm', '', '123456', '01/01/2022', '1', CURRENT_TIMESTAMP);
 
+-- Inserir Praia Grande
+INSERT INTO praia (
+    nome_praia,
+    imagem_praia,
+    rua,
+    numero,
+    bairro,
+    cep,
+    id_parceria
+) VALUES (
+    'Praia Grande',
+    'praia_grande.jpg',
+    'Av. Pres. Castelo Branco',
+    '52',
+    'Aviação',
+    '11702-705',
+    NULL
+);
+
+-- Inserir Ubatuba
+INSERT INTO praia (
+    nome_praia,
+    imagem_praia,
+    rua,
+    numero,
+    bairro,
+    cep,
+    id_parceria
+) VALUES (
+    'Ubatuba',
+    'ubatuba.jpg',
+    'Av. Armando Barros Pereira',
+    '11 - Quiosque 11',
+    'Praia Grande',
+    '11680-000',
+    NULL
+);
+
+-- Inserir Guarujá
+INSERT INTO praia (
+    nome_praia,
+    imagem_praia,
+    rua,
+    numero,
+    bairro,
+    cep,
+    id_parceria
+) VALUES (
+    'Guarujá',
+    'guaruja.jpg',
+    'Av. Miguel Estefno',
+    '2943 - Quiosque 33',
+    'Jardim Praiano',
+    '11440-530',
+    NULL
+);
