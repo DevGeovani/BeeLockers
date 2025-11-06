@@ -3,7 +3,6 @@
 # Sumário
 
 - [Sobre o Projeto](#--sobre-projeto)
-- [Equipe do Projeto](#--equipe-do-projeto-)
 - [Tecnologias utilizadas](#--tecnologias-utilizadas-)
 - [Cronograma](#--cronograma-)
 - [Estrutura - Banco de Dados](#-pencil2-estrutura---banco-de-dados-)
